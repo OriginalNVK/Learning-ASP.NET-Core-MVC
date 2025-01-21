@@ -8,7 +8,7 @@ namespace MyFirstWebApp.Controllers
     [ApiController]
     public class ProductController : ControllerBase
     {
-        public static List<Product> Products { get; set; } = new List<Product>();
+        public static List<HangHoa> Products { get; set; } = new List<HangHoa>();
 
         [HttpGet]
         public IActionResult GetAll()
@@ -35,9 +35,9 @@ namespace MyFirstWebApp.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(ProductVM productVM)
+        public IActionResult Create(HangHoaVM productVM)
         {
-            var Product = new Product()
+            var Product = new HangHoa()
             {
                 ID = Guid.NewGuid(),
                 Name = productVM.Name,
@@ -53,7 +53,7 @@ namespace MyFirstWebApp.Controllers
         }
 
         [HttpPut("{id}")]
-        public IActionResult Edit(string id, ProductVM productVM)
+        public IActionResult Edit(string id, HangHoaVM productVM)
         {
             try
             {
