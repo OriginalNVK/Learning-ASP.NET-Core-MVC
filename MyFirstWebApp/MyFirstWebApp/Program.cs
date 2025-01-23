@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using MyFirstWebApp.Data;
+using MyFirstWebApp.Services;
 
 namespace MyFirstWebApp
 {
@@ -22,6 +23,8 @@ namespace MyFirstWebApp
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultDB"));
             });
+
+            builder.Services.AddScoped<ILoaiRepository, LoaiRepository>();
 
             var app = builder.Build();
 
