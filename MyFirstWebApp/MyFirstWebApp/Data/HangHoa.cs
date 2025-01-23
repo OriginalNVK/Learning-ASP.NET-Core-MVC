@@ -7,7 +7,7 @@ namespace MyFirstWebApp.Data
     public class HangHoa
     {
         [Key]
-        public Guid Id { get; set; }
+        public Guid MaHh { get; set; }
 
         [Required]
         [MaxLength(100)]
@@ -22,5 +22,12 @@ namespace MyFirstWebApp.Data
         public int? MaLoai { get; set; }
         [ForeignKey("MaLoai")]
         public Loai Loai { get; set; }
+
+        public IList<DonHangChiTiet> DonHangChiTiets { get; set; }
+
+        public HangHoa()
+        {
+            DonHangChiTiets = new List<DonHangChiTiet>();
+        }
     }
 }
