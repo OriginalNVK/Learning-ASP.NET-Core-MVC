@@ -67,5 +67,6 @@ namespace MyFirstWebApp.Services
             Loai.TenLoai = loai.TenLoai;
             _dbContext.SaveChanges();
         }
+
     }
 }
