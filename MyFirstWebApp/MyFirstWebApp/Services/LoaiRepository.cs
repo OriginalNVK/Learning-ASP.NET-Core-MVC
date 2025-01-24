@@ -68,13 +68,5 @@ namespace MyFirstWebApp.Services
             _dbContext.SaveChanges();
         }
 
-        public List<LoaiVM> GetAllLoai(string search)
-        {
-            var Loai = _dbContext.Loais.AsQueryable();
-            if(!string.IsNullOrEmpty(search)) {
-                Loai = Loai.Where(x => x.TenLoai.Contains(search));
-            }
-
-        }
     }
 }

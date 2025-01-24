@@ -4,15 +4,15 @@ namespace MyFirstWebApp.Models
 {
     public class HangHoaVM
     {
-        public string? Name { get; set; }    
+        public string? TenHH { get; set; }    
 
-        public double Price { get; set; }
+        public double Gia { get; set; }
 
     }
 
     public class HangHoa : HangHoaVM
     {
-       public Guid ID { get; set; }
+       public Guid MaHh { get; set; }
     }
 
     public class HangHoaModel
