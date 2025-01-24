@@ -15,5 +15,7 @@ namespace MyFirstWebApp.Services
 
         void Delete(int id);
 
+        List<LoaiVM> GetAllLoai(string search);
+
     }
 }
