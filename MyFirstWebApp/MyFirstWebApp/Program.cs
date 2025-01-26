@@ -1,8 +1,11 @@
-
+﻿
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Microsoft.IdentityModel.Tokens;
 using MyFirstWebApp.Data;
 using MyFirstWebApp.Services;
+using System.Text;
 
 namespace MyFirstWebApp
 {
@@ -27,6 +30,24 @@ namespace MyFirstWebApp
             builder.Services.AddScoped<ILoaiRepository, LoaiRepository>();
             builder.Services.AddScoped<IHangHoaRepository, HangHoaRepository>();
 
+            var secretKey = builder.Configuration["AppSettings:SecretKey"];
+            var secretKeyBytes = Encoding.UTF8.GetBytes(secretKey);
+            builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt =>
+            {
+                opt.TokenValidationParameters = new TokenValidationParameters
+                {
+                    // Tự cấp token
+                    ValidateIssuer = false,
+                    ValidateAudience = false,
+
+                    //Ký vào token
+                    ValidateIssuerSigningKey = true,
+                    IssuerSigningKey = new SymmetricSecurityKey(secretKeyBytes),
+
+                    ClockSkew = TimeSpan.Zero
+                };
+            });
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -37,6 +58,8 @@ namespace MyFirstWebApp
             }
 
             app.UseHttpsRedirection();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
