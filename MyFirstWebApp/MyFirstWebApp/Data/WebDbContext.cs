@@ -14,6 +14,8 @@ namespace MyFirstWebApp.Data
 
         public DbSet<DonHangChiTiet> DonHangChiTiets { get; set; }
 
+        public DbSet<NguoiDung> NguoiDungs { get; set; }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<DonHang>(e =>
@@ -37,6 +39,12 @@ namespace MyFirstWebApp.Data
                 .WithMany(e => e.DonHangChiTiets)
                 .HasForeignKey(e => e.MaHh)
                 .HasConstraintName("FK_HH_DHCT");
+            });
+
+            modelBuilder.Entity<NguoiDung>(e =>
+            {
+                e.ToTable("NguoiDung");
+                e.HasIndex(x => x.UserName).IsUnique();
             });
         }
     }
