@@ -1,0 +1,7 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\SolutionGameCharacter\SolutionGameCharacter\bin\Debug\SolutionGameCharacter.exe.config
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\SolutionGameCharacter\SolutionGameCharacter\bin\Debug\SolutionGameCharacter.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\SolutionGameCharacter\SolutionGameCharacter\bin\Debug\SolutionGameCharacter.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\SolutionGameCharacter\SolutionGameCharacter\obj\Debug\SolutionGameCharacter.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\SolutionGameCharacter\SolutionGameCharacter\obj\Debug\SolutionGameCharacter.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\SolutionGameCharacter\SolutionGameCharacter\obj\Debug\SolutionGameCharacter.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\SolutionGameCharacter\SolutionGameCharacter\obj\Debug\SolutionGameCharacter.pdb

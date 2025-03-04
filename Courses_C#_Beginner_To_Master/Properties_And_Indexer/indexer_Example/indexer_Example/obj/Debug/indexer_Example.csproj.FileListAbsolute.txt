@@ -1,0 +1,10 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Properties_And_Indexer\indexer_Example\indexer_Example\bin\Debug\indexer_Example.exe.config
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Properties_And_Indexer\indexer_Example\indexer_Example\bin\Debug\indexer_Example.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Properties_And_Indexer\indexer_Example\indexer_Example\bin\Debug\indexer_Example.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Properties_And_Indexer\indexer_Example\indexer_Example\bin\Debug\IndexLibrary.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Properties_And_Indexer\indexer_Example\indexer_Example\bin\Debug\IndexLibrary.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Properties_And_Indexer\indexer_Example\indexer_Example\obj\Debug\indexer_Example.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Properties_And_Indexer\indexer_Example\indexer_Example\obj\Debug\indexer_Example.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Properties_And_Indexer\indexer_Example\indexer_Example\obj\Debug\indexer_Example.csproj.CopyComplete
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Properties_And_Indexer\indexer_Example\indexer_Example\obj\Debug\indexer_Example.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Properties_And_Indexer\indexer_Example\indexer_Example\obj\Debug\indexer_Example.pdb

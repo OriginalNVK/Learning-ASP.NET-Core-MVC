@@ -1,0 +1,10 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\Medical_Bot\Medical_Bot\bin\Debug\Medical_Bot.exe.config
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\Medical_Bot\Medical_Bot\bin\Debug\Medical_Bot.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\Medical_Bot\Medical_Bot\bin\Debug\Medical_Bot.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\Medical_Bot\Medical_Bot\bin\Debug\MedicalLibrary.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\Medical_Bot\Medical_Bot\bin\Debug\MedicalLibrary.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\Medical_Bot\Medical_Bot\obj\Debug\Medical_Bot.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\Medical_Bot\Medical_Bot\obj\Debug\Medical_Bot.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\Medical_Bot\Medical_Bot\obj\Debug\Medical_Bot.csproj.CopyComplete
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\Medical_Bot\Medical_Bot\obj\Debug\Medical_Bot.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\Medical_Bot\Medical_Bot\obj\Debug\Medical_Bot.pdb

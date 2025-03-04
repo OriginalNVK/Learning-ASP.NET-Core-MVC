@@ -1,0 +1,6 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\MethodExample\MyMethodExample\libraryOfMyExample\bin\Debug\libraryOfMyExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\MethodExample\MyMethodExample\libraryOfMyExample\bin\Debug\libraryOfMyExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\MethodExample\MyMethodExample\libraryOfMyExample\obj\Debug\libraryOfMyExample.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\MethodExample\MyMethodExample\libraryOfMyExample\obj\Debug\libraryOfMyExample.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\MethodExample\MyMethodExample\libraryOfMyExample\obj\Debug\libraryOfMyExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\MethodExample\MyMethodExample\libraryOfMyExample\obj\Debug\libraryOfMyExample.pdb

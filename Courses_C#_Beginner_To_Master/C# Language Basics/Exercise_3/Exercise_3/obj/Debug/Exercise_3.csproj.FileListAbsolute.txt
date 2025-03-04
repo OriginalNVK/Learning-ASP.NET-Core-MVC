@@ -1,0 +1,7 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\Exercise_3\Exercise_3\bin\Debug\Exercise_3.exe.config
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\Exercise_3\Exercise_3\bin\Debug\Exercise_3.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\Exercise_3\Exercise_3\bin\Debug\Exercise_3.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\Exercise_3\Exercise_3\obj\Debug\Exercise_3.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\Exercise_3\Exercise_3\obj\Debug\Exercise_3.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\Exercise_3\Exercise_3\obj\Debug\Exercise_3.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\Exercise_3\Exercise_3\obj\Debug\Exercise_3.pdb

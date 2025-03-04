@@ -1,0 +1,14 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\OctalNumberSystemExample\OctalNumberSystemExample\bin\Debug\net8.0\OctalNumberSystemExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\OctalNumberSystemExample\OctalNumberSystemExample\bin\Debug\net8.0\OctalNumberSystemExample.deps.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\OctalNumberSystemExample\OctalNumberSystemExample\bin\Debug\net8.0\OctalNumberSystemExample.runtimeconfig.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\OctalNumberSystemExample\OctalNumberSystemExample\bin\Debug\net8.0\OctalNumberSystemExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\OctalNumberSystemExample\OctalNumberSystemExample\bin\Debug\net8.0\OctalNumberSystemExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\OctalNumberSystemExample\OctalNumberSystemExample\obj\Debug\net8.0\OctalNumberSystemExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\OctalNumberSystemExample\OctalNumberSystemExample\obj\Debug\net8.0\OctalNumberSystemExample.AssemblyInfoInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\OctalNumberSystemExample\OctalNumberSystemExample\obj\Debug\net8.0\OctalNumberSystemExample.AssemblyInfo.cs
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\OctalNumberSystemExample\OctalNumberSystemExample\obj\Debug\net8.0\OctalNumberSystemExample.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\OctalNumberSystemExample\OctalNumberSystemExample\obj\Debug\net8.0\OctalNumberSystemExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\OctalNumberSystemExample\OctalNumberSystemExample\obj\Debug\net8.0\refint\OctalNumberSystemExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\OctalNumberSystemExample\OctalNumberSystemExample\obj\Debug\net8.0\OctalNumberSystemExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\OctalNumberSystemExample\OctalNumberSystemExample\obj\Debug\net8.0\OctalNumberSystemExample.genruntimeconfig.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\OctalNumberSystemExample\OctalNumberSystemExample\obj\Debug\net8.0\ref\OctalNumberSystemExample.dll

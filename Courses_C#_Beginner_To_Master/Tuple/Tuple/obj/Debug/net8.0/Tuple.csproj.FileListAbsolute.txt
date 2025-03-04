@@ -1,0 +1,14 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Tuple\Tuple\obj\Debug\net8.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Tuple\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfoInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Tuple\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfo.cs
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Tuple\Tuple\obj\Debug\net8.0\Tuple.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Tuple\Tuple\bin\Debug\net8.0\Tuple.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Tuple\Tuple\bin\Debug\net8.0\Tuple.deps.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Tuple\Tuple\bin\Debug\net8.0\Tuple.runtimeconfig.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Tuple\Tuple\bin\Debug\net8.0\Tuple.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Tuple\Tuple\bin\Debug\net8.0\Tuple.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Tuple\Tuple\obj\Debug\net8.0\Tuple.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Tuple\Tuple\obj\Debug\net8.0\refint\Tuple.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Tuple\Tuple\obj\Debug\net8.0\Tuple.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Tuple\Tuple\obj\Debug\net8.0\Tuple.genruntimeconfig.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Tuple\Tuple\obj\Debug\net8.0\ref\Tuple.dll

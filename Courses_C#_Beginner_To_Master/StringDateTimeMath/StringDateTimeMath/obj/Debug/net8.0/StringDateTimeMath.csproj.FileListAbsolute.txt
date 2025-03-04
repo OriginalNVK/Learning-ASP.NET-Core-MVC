@@ -1,0 +1,14 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StringDateTimeMath\StringDateTimeMath\bin\Debug\net8.0\StringDateTimeMath.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StringDateTimeMath\StringDateTimeMath\bin\Debug\net8.0\StringDateTimeMath.deps.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StringDateTimeMath\StringDateTimeMath\bin\Debug\net8.0\StringDateTimeMath.runtimeconfig.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StringDateTimeMath\StringDateTimeMath\bin\Debug\net8.0\StringDateTimeMath.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StringDateTimeMath\StringDateTimeMath\bin\Debug\net8.0\StringDateTimeMath.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StringDateTimeMath\StringDateTimeMath\obj\Debug\net8.0\StringDateTimeMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StringDateTimeMath\StringDateTimeMath\obj\Debug\net8.0\StringDateTimeMath.AssemblyInfoInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StringDateTimeMath\StringDateTimeMath\obj\Debug\net8.0\StringDateTimeMath.AssemblyInfo.cs
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StringDateTimeMath\StringDateTimeMath\obj\Debug\net8.0\StringDateTimeMath.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StringDateTimeMath\StringDateTimeMath\obj\Debug\net8.0\StringDateTimeMath.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StringDateTimeMath\StringDateTimeMath\obj\Debug\net8.0\refint\StringDateTimeMath.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StringDateTimeMath\StringDateTimeMath\obj\Debug\net8.0\StringDateTimeMath.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StringDateTimeMath\StringDateTimeMath\obj\Debug\net8.0\StringDateTimeMath.genruntimeconfig.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StringDateTimeMath\StringDateTimeMath\obj\Debug\net8.0\ref\StringDateTimeMath.dll

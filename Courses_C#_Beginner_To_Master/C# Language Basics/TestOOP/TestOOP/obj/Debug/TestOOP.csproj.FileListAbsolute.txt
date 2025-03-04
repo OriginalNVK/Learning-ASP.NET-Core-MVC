@@ -1,0 +1,7 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\TestOOP\TestOOP\bin\Debug\TestOOP.exe.config
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\TestOOP\TestOOP\bin\Debug\TestOOP.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\TestOOP\TestOOP\bin\Debug\TestOOP.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\TestOOP\TestOOP\obj\Debug\TestOOP.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\TestOOP\TestOOP\obj\Debug\TestOOP.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\TestOOP\TestOOP\obj\Debug\TestOOP.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\TestOOP\TestOOP\obj\Debug\TestOOP.pdb

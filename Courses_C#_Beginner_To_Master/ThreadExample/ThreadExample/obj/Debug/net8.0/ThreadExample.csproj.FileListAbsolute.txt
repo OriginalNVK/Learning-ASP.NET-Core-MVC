@@ -1,0 +1,14 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadExample.deps.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadExample.runtimeconfig.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ThreadExample\ThreadExample\bin\Debug\net8.0\ThreadExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadExample.AssemblyInfoInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadExample.AssemblyInfo.cs
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadExample.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ThreadExample\ThreadExample\obj\Debug\net8.0\refint\ThreadExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ThreadExample\ThreadExample\obj\Debug\net8.0\ThreadExample.genruntimeconfig.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ThreadExample\ThreadExample\obj\Debug\net8.0\ref\ThreadExample.dll

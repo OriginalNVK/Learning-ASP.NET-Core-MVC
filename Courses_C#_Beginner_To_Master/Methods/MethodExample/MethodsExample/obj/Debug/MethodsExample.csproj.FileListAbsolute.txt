@@ -1,0 +1,10 @@
+c:\CSharp\MethodsExample\MethodsExample\bin\Debug\MethodsExample.exe.config
+c:\CSharp\MethodsExample\MethodsExample\bin\Debug\MethodsExample.exe
+c:\CSharp\MethodsExample\MethodsExample\bin\Debug\MethodsExample.pdb
+c:\CSharp\MethodsExample\MethodsExample\bin\Debug\ClassLibrary1.dll
+c:\CSharp\MethodsExample\MethodsExample\bin\Debug\ClassLibrary1.pdb
+c:\CSharp\MethodsExample\MethodsExample\obj\Debug\MethodsExample.csprojAssemblyReference.cache
+c:\CSharp\MethodsExample\MethodsExample\obj\Debug\MethodsExample.csproj.CoreCompileInputs.cache
+c:\CSharp\MethodsExample\MethodsExample\obj\Debug\MethodsExample.csproj.CopyComplete
+c:\CSharp\MethodsExample\MethodsExample\obj\Debug\MethodsExample.exe
+c:\CSharp\MethodsExample\MethodsExample\obj\Debug\MethodsExample.pdb

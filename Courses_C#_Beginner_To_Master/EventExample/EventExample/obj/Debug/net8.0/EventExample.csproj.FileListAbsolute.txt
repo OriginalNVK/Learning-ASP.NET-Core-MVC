@@ -1,0 +1,14 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\EventExample\EventExample\obj\Debug\net8.0\EventExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\EventExample\EventExample\obj\Debug\net8.0\EventExample.AssemblyInfoInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\EventExample\EventExample\obj\Debug\net8.0\EventExample.AssemblyInfo.cs
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\EventExample\EventExample\obj\Debug\net8.0\EventExample.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\EventExample\EventExample\bin\Debug\net8.0\EventExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\EventExample\EventExample\bin\Debug\net8.0\EventExample.deps.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\EventExample\EventExample\bin\Debug\net8.0\EventExample.runtimeconfig.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\EventExample\EventExample\bin\Debug\net8.0\EventExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\EventExample\EventExample\bin\Debug\net8.0\EventExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\EventExample\EventExample\obj\Debug\net8.0\EventExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\EventExample\EventExample\obj\Debug\net8.0\refint\EventExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\EventExample\EventExample\obj\Debug\net8.0\EventExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\EventExample\EventExample\obj\Debug\net8.0\EventExample.genruntimeconfig.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\EventExample\EventExample\obj\Debug\net8.0\ref\EventExample.dll

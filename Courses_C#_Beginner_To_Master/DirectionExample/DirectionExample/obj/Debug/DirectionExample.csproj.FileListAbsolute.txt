@@ -1,0 +1,7 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\DirectionExample\DirectionExample\bin\Debug\DirectionExample.exe.config
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\DirectionExample\DirectionExample\bin\Debug\DirectionExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\DirectionExample\DirectionExample\bin\Debug\DirectionExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\DirectionExample\DirectionExample\obj\Debug\DirectionExample.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\DirectionExample\DirectionExample\obj\Debug\DirectionExample.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\DirectionExample\DirectionExample\obj\Debug\DirectionExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\DirectionExample\DirectionExample\obj\Debug\DirectionExample.pdb

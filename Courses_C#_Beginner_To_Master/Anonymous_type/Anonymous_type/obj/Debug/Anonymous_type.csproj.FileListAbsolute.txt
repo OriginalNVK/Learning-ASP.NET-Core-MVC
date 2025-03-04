@@ -1,0 +1,7 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Anonymous_type\Anonymous_type\bin\Debug\Anonymous_type.exe.config
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Anonymous_type\Anonymous_type\bin\Debug\Anonymous_type.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Anonymous_type\Anonymous_type\bin\Debug\Anonymous_type.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Anonymous_type\Anonymous_type\obj\Debug\Anonymous_type.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Anonymous_type\Anonymous_type\obj\Debug\Anonymous_type.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Anonymous_type\Anonymous_type\obj\Debug\Anonymous_type.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Anonymous_type\Anonymous_type\obj\Debug\Anonymous_type.pdb

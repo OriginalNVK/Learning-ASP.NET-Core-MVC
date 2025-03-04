@@ -1,0 +1,14 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Conversion\TestProjects\obj\Debug\net8.0\TestProjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Conversion\TestProjects\obj\Debug\net8.0\TestProjects.AssemblyInfoInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Conversion\TestProjects\obj\Debug\net8.0\TestProjects.AssemblyInfo.cs
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Conversion\TestProjects\obj\Debug\net8.0\TestProjects.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Conversion\TestProjects\bin\Debug\net8.0\TestProjects.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Conversion\TestProjects\bin\Debug\net8.0\TestProjects.deps.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Conversion\TestProjects\bin\Debug\net8.0\TestProjects.runtimeconfig.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Conversion\TestProjects\bin\Debug\net8.0\TestProjects.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Conversion\TestProjects\bin\Debug\net8.0\TestProjects.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Conversion\TestProjects\obj\Debug\net8.0\TestProjects.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Conversion\TestProjects\obj\Debug\net8.0\refint\TestProjects.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Conversion\TestProjects\obj\Debug\net8.0\TestProjects.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Conversion\TestProjects\obj\Debug\net8.0\TestProjects.genruntimeconfig.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Conversion\TestProjects\obj\Debug\net8.0\ref\TestProjects.dll

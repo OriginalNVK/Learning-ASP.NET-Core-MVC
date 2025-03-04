@@ -1,0 +1,10 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Extension Method\ExtensionMethodExample\ExtensionMethodExample\bin\Debug\ExtensionMethodExample.exe.config
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Extension Method\ExtensionMethodExample\ExtensionMethodExample\bin\Debug\ExtensionMethodExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Extension Method\ExtensionMethodExample\ExtensionMethodExample\bin\Debug\ExtensionMethodExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Extension Method\ExtensionMethodExample\ExtensionMethodExample\bin\Debug\ClassLibrary1.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Extension Method\ExtensionMethodExample\ExtensionMethodExample\bin\Debug\ClassLibrary1.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Extension Method\ExtensionMethodExample\ExtensionMethodExample\obj\Debug\ExtensionMethodExample.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Extension Method\ExtensionMethodExample\ExtensionMethodExample\obj\Debug\ExtensionMethodExample.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Extension Method\ExtensionMethodExample\ExtensionMethodExample\obj\Debug\ExtensionMethodExample.csproj.CopyComplete
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Extension Method\ExtensionMethodExample\ExtensionMethodExample\obj\Debug\ExtensionMethodExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Extension Method\ExtensionMethodExample\ExtensionMethodExample\obj\Debug\ExtensionMethodExample.pdb

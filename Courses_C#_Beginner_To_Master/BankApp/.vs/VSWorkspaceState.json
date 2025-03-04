@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HarshaBank.BusinessLogicLayer",
+    "\\HarshaBank.Configuration",
+    "\\HarshaBank.DataAccessLayer",
+    "\\HarshaBank.Entities",
+    "\\HarshaBank.Exceptions",
+    "\\HarshaBank.Presentation"
+  ],
+  "SelectedNode": "\\HarshaBank.Presentation",
+  "PreviewInSolutionExplorer": false
+}

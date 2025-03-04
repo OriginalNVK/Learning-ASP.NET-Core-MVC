@@ -1,0 +1,7 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\Banking_Application\Banking_Application\bin\Debug\Banking_Application.exe.config
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\Banking_Application\Banking_Application\bin\Debug\Banking_Application.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\Banking_Application\Banking_Application\bin\Debug\Banking_Application.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\Banking_Application\Banking_Application\obj\Debug\Banking_Application.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\Banking_Application\Banking_Application\obj\Debug\Banking_Application.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\Banking_Application\Banking_Application\obj\Debug\Banking_Application.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\C# Language Basics\Banking_Application\Banking_Application\obj\Debug\Banking_Application.pdb

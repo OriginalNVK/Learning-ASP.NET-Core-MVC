@@ -1,0 +1,10 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\MethodExample\MyMethodExample\MyMethodExample\bin\Debug\MyMethodExample.exe.config
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\MethodExample\MyMethodExample\MyMethodExample\bin\Debug\MyMethodExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\MethodExample\MyMethodExample\MyMethodExample\bin\Debug\MyMethodExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\MethodExample\MyMethodExample\MyMethodExample\bin\Debug\libraryOfMyExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\MethodExample\MyMethodExample\MyMethodExample\bin\Debug\libraryOfMyExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\MethodExample\MyMethodExample\MyMethodExample\obj\Debug\MyMethodExample.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\MethodExample\MyMethodExample\MyMethodExample\obj\Debug\MyMethodExample.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\MethodExample\MyMethodExample\MyMethodExample\obj\Debug\MyMethodExample.csproj.CopyComplete
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\MethodExample\MyMethodExample\MyMethodExample\obj\Debug\MyMethodExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\MethodExample\MyMethodExample\MyMethodExample\obj\Debug\MyMethodExample.pdb

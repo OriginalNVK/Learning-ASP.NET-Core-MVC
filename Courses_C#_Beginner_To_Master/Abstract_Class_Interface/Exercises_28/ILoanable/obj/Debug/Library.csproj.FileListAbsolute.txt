@@ -1,0 +1,6 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\Exercises_28\ILoanable\bin\Debug\ILoanable.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\Exercises_28\ILoanable\bin\Debug\ILoanable.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\Exercises_28\ILoanable\obj\Debug\Library.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\Exercises_28\ILoanable\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\Exercises_28\ILoanable\obj\Debug\ILoanable.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\Exercises_28\ILoanable\obj\Debug\ILoanable.pdb

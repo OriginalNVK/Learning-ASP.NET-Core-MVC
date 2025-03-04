@@ -1,0 +1,6 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\GarbageCollection\IDisposableExample\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\GarbageCollection\IDisposableExample\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\GarbageCollection\IDisposableExample\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\GarbageCollection\IDisposableExample\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\GarbageCollection\IDisposableExample\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\GarbageCollection\IDisposableExample\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

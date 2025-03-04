@@ -1,0 +1,7 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\HashSet\HashSet\bin\Debug\HashSet.exe.config
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\HashSet\HashSet\bin\Debug\HashSet.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\HashSet\HashSet\bin\Debug\HashSet.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\HashSet\HashSet\obj\Debug\HashSet.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\HashSet\HashSet\obj\Debug\HashSet.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\HashSet\HashSet\obj\Debug\HashSet.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\HashSet\HashSet\obj\Debug\HashSet.pdb

@@ -1,0 +1,10 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\Exercises_28\Exercises_28\bin\Debug\Exercises_28.exe.config
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\Exercises_28\Exercises_28\bin\Debug\Exercises_28.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\Exercises_28\Exercises_28\bin\Debug\Exercises_28.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\Exercises_28\Exercises_28\bin\Debug\ILoanable.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\Exercises_28\Exercises_28\bin\Debug\ILoanable.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\Exercises_28\Exercises_28\obj\Debug\Exercises_28.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\Exercises_28\Exercises_28\obj\Debug\Exercises_28.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\Exercises_28\Exercises_28\obj\Debug\Exercises_28.csproj.CopyComplete
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\Exercises_28\Exercises_28\obj\Debug\Exercises_28.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Abstract_Class_Interface\Exercises_28\Exercises_28\obj\Debug\Exercises_28.pdb

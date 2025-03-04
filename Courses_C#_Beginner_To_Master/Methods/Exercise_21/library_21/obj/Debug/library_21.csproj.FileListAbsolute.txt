@@ -1,0 +1,6 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\Exercise_21\library_21\bin\Debug\library_21.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\Exercise_21\library_21\bin\Debug\library_21.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\Exercise_21\library_21\obj\Debug\library_21.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\Exercise_21\library_21\obj\Debug\library_21.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\Exercise_21\library_21\obj\Debug\library_21.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\Methods\Exercise_21\library_21\obj\Debug\library_21.pdb

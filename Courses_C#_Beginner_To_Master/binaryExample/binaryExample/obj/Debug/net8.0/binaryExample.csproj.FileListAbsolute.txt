@@ -1,0 +1,14 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\binaryExample\binaryExample\bin\Debug\net8.0\binaryExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\binaryExample\binaryExample\bin\Debug\net8.0\binaryExample.deps.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\binaryExample\binaryExample\bin\Debug\net8.0\binaryExample.runtimeconfig.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\binaryExample\binaryExample\bin\Debug\net8.0\binaryExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\binaryExample\binaryExample\bin\Debug\net8.0\binaryExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\binaryExample\binaryExample\obj\Debug\net8.0\binaryExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\binaryExample\binaryExample\obj\Debug\net8.0\binaryExample.AssemblyInfoInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\binaryExample\binaryExample\obj\Debug\net8.0\binaryExample.AssemblyInfo.cs
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\binaryExample\binaryExample\obj\Debug\net8.0\binaryExample.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\binaryExample\binaryExample\obj\Debug\net8.0\binaryExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\binaryExample\binaryExample\obj\Debug\net8.0\refint\binaryExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\binaryExample\binaryExample\obj\Debug\net8.0\binaryExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\binaryExample\binaryExample\obj\Debug\net8.0\binaryExample.genruntimeconfig.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\binaryExample\binaryExample\obj\Debug\net8.0\ref\binaryExample.dll

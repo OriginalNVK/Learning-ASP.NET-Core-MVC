@@ -1,0 +1,14 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\WaitAndPulseExample\WaitAndPulseExample\bin\Debug\net8.0\WaitAndPulseExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\WaitAndPulseExample\WaitAndPulseExample\bin\Debug\net8.0\WaitAndPulseExample.deps.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\WaitAndPulseExample\WaitAndPulseExample\bin\Debug\net8.0\WaitAndPulseExample.runtimeconfig.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\WaitAndPulseExample\WaitAndPulseExample\bin\Debug\net8.0\WaitAndPulseExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\WaitAndPulseExample\WaitAndPulseExample\bin\Debug\net8.0\WaitAndPulseExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\WaitAndPulseExample\WaitAndPulseExample\obj\Debug\net8.0\WaitAndPulseExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\WaitAndPulseExample\WaitAndPulseExample\obj\Debug\net8.0\WaitAndPulseExample.AssemblyInfoInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\WaitAndPulseExample\WaitAndPulseExample\obj\Debug\net8.0\WaitAndPulseExample.AssemblyInfo.cs
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\WaitAndPulseExample\WaitAndPulseExample\obj\Debug\net8.0\WaitAndPulseExample.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\WaitAndPulseExample\WaitAndPulseExample\obj\Debug\net8.0\WaitAndPulseExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\WaitAndPulseExample\WaitAndPulseExample\obj\Debug\net8.0\refint\WaitAndPulseExample.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\WaitAndPulseExample\WaitAndPulseExample\obj\Debug\net8.0\WaitAndPulseExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\WaitAndPulseExample\WaitAndPulseExample\obj\Debug\net8.0\WaitAndPulseExample.genruntimeconfig.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\WaitAndPulseExample\WaitAndPulseExample\obj\Debug\net8.0\ref\WaitAndPulseExample.dll

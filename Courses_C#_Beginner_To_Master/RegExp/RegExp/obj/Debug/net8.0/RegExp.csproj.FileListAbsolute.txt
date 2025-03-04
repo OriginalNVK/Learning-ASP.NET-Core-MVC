@@ -1,0 +1,14 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\RegExp\RegExp\bin\Debug\net8.0\RegExp.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\RegExp\RegExp\bin\Debug\net8.0\RegExp.deps.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\RegExp\RegExp\bin\Debug\net8.0\RegExp.runtimeconfig.json
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\RegExp\RegExp\bin\Debug\net8.0\RegExp.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\RegExp\RegExp\bin\Debug\net8.0\RegExp.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\RegExp\RegExp\obj\Debug\net8.0\RegExp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\RegExp\RegExp\obj\Debug\net8.0\RegExp.AssemblyInfoInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\RegExp\RegExp\obj\Debug\net8.0\RegExp.AssemblyInfo.cs
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\RegExp\RegExp\obj\Debug\net8.0\RegExp.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\RegExp\RegExp\obj\Debug\net8.0\RegExp.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\RegExp\RegExp\obj\Debug\net8.0\refint\RegExp.dll
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\RegExp\RegExp\obj\Debug\net8.0\RegExp.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\RegExp\RegExp\obj\Debug\net8.0\RegExp.genruntimeconfig.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\RegExp\RegExp\obj\Debug\net8.0\ref\RegExp.dll

@@ -1,0 +1,7 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StackExample\StackExample\bin\Debug\StackExample.exe.config
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StackExample\StackExample\bin\Debug\StackExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StackExample\StackExample\bin\Debug\StackExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StackExample\StackExample\obj\Debug\StackExample.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StackExample\StackExample\obj\Debug\StackExample.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StackExample\StackExample\obj\Debug\StackExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\StackExample\StackExample\obj\Debug\StackExample.pdb

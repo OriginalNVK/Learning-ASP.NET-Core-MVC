@@ -1,0 +1,7 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\QueueExample\QueueExample\bin\Debug\QueueExample.exe.config
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\QueueExample\QueueExample\bin\Debug\QueueExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\QueueExample\QueueExample\bin\Debug\QueueExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\QueueExample\QueueExample\obj\Debug\QueueExample.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\QueueExample\QueueExample\obj\Debug\QueueExample.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\QueueExample\QueueExample\obj\Debug\QueueExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\QueueExample\QueueExample\obj\Debug\QueueExample.pdb

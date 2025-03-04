@@ -1,0 +1,7 @@
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ListExample\ListExample\bin\Debug\ListExample.exe.config
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ListExample\ListExample\bin\Debug\ListExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ListExample\ListExample\bin\Debug\ListExample.pdb
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ListExample\ListExample\obj\Debug\ListExample.csproj.AssemblyReference.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ListExample\ListExample\obj\Debug\ListExample.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ListExample\ListExample\obj\Debug\ListExample.exe
+D:\Work\C#_Work\Courses_C#_Beginner_To_Master\ListExample\ListExample\obj\Debug\ListExample.pdb
