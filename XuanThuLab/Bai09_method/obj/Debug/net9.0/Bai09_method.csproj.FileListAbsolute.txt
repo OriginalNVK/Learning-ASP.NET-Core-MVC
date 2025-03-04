@@ -1,0 +1,14 @@
+D:\Work\C#_Work\XuanThuLab\Bai09_method\bin\Debug\net9.0\Bai09_method.exe
+D:\Work\C#_Work\XuanThuLab\Bai09_method\bin\Debug\net9.0\Bai09_method.deps.json
+D:\Work\C#_Work\XuanThuLab\Bai09_method\bin\Debug\net9.0\Bai09_method.runtimeconfig.json
+D:\Work\C#_Work\XuanThuLab\Bai09_method\bin\Debug\net9.0\Bai09_method.dll
+D:\Work\C#_Work\XuanThuLab\Bai09_method\bin\Debug\net9.0\Bai09_method.pdb
+D:\Work\C#_Work\XuanThuLab\Bai09_method\obj\Debug\net9.0\Bai09_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\C#_Work\XuanThuLab\Bai09_method\obj\Debug\net9.0\Bai09_method.AssemblyInfoInputs.cache
+D:\Work\C#_Work\XuanThuLab\Bai09_method\obj\Debug\net9.0\Bai09_method.AssemblyInfo.cs
+D:\Work\C#_Work\XuanThuLab\Bai09_method\obj\Debug\net9.0\Bai09_method.csproj.CoreCompileInputs.cache
+D:\Work\C#_Work\XuanThuLab\Bai09_method\obj\Debug\net9.0\Bai09_method.dll
+D:\Work\C#_Work\XuanThuLab\Bai09_method\obj\Debug\net9.0\refint\Bai09_method.dll
+D:\Work\C#_Work\XuanThuLab\Bai09_method\obj\Debug\net9.0\Bai09_method.pdb
+D:\Work\C#_Work\XuanThuLab\Bai09_method\obj\Debug\net9.0\Bai09_method.genruntimeconfig.cache
+D:\Work\C#_Work\XuanThuLab\Bai09_method\obj\Debug\net9.0\ref\Bai09_method.dll
