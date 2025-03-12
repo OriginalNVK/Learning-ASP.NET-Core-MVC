@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai11_String_StringBuilder\bin\Debug\net9.0\Bai11_String_StringBuilder.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai11_String_StringBuilder\bin\Debug\net9.0\Bai11_String_StringBuilder.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai11_String_StringBuilder\bin\Debug\net9.0\Bai11_String_StringBuilder.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai11_String_StringBuilder\bin\Debug\net9.0\Bai11_String_StringBuilder.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai11_String_StringBuilder\bin\Debug\net9.0\Bai11_String_StringBuilder.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai11_String_StringBuilder\obj\Debug\net9.0\Bai11_String_StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai11_String_StringBuilder\obj\Debug\net9.0\Bai11_String_StringBuilder.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai11_String_StringBuilder\obj\Debug\net9.0\Bai11_String_StringBuilder.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai11_String_StringBuilder\obj\Debug\net9.0\Bai11_String_StringBuilder.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai11_String_StringBuilder\obj\Debug\net9.0\Bai11_String_StringBuilder.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai11_String_StringBuilder\obj\Debug\net9.0\Bai11_String_StringBuilder.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai11_String_StringBuilder\obj\Debug\net9.0\refint\Bai11_String_StringBuilder.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai11_String_StringBuilder\obj\Debug\net9.0\Bai11_String_StringBuilder.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai11_String_StringBuilder\obj\Debug\net9.0\Bai11_String_StringBuilder.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai11_String_StringBuilder\obj\Debug\net9.0\ref\Bai11_String_StringBuilder.dll
