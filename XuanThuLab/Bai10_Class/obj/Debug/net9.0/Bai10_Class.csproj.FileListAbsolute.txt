@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai10_Class\bin\Debug\net9.0\Bai10_Class.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai10_Class\bin\Debug\net9.0\Bai10_Class.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai10_Class\bin\Debug\net9.0\Bai10_Class.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai10_Class\bin\Debug\net9.0\Bai10_Class.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai10_Class\bin\Debug\net9.0\Bai10_Class.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai10_Class\obj\Debug\net9.0\Bai10_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai10_Class\obj\Debug\net9.0\Bai10_Class.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai10_Class\obj\Debug\net9.0\Bai10_Class.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai10_Class\obj\Debug\net9.0\Bai10_Class.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai10_Class\obj\Debug\net9.0\Bai10_Class.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai10_Class\obj\Debug\net9.0\Bai10_Class.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai10_Class\obj\Debug\net9.0\refint\Bai10_Class.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai10_Class\obj\Debug\net9.0\Bai10_Class.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai10_Class\obj\Debug\net9.0\Bai10_Class.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai10_Class\obj\Debug\net9.0\ref\Bai10_Class.dll
