@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai14_Inherit\bin\Debug\net9.0\Bai14_Inherit.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai14_Inherit\bin\Debug\net9.0\Bai14_Inherit.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai14_Inherit\bin\Debug\net9.0\Bai14_Inherit.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai14_Inherit\bin\Debug\net9.0\Bai14_Inherit.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai14_Inherit\bin\Debug\net9.0\Bai14_Inherit.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai14_Inherit\obj\Debug\net9.0\Bai14_Inherit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai14_Inherit\obj\Debug\net9.0\Bai14_Inherit.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai14_Inherit\obj\Debug\net9.0\Bai14_Inherit.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai14_Inherit\obj\Debug\net9.0\Bai14_Inherit.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai14_Inherit\obj\Debug\net9.0\Bai14_Inherit.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai14_Inherit\obj\Debug\net9.0\Bai14_Inherit.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai14_Inherit\obj\Debug\net9.0\refint\Bai14_Inherit.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai14_Inherit\obj\Debug\net9.0\Bai14_Inherit.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai14_Inherit\obj\Debug\net9.0\Bai14_Inherit.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai14_Inherit\obj\Debug\net9.0\ref\Bai14_Inherit.dll
