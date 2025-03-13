@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai17_Anonymoustype_Dynamic\bin\Debug\net9.0\Bai17_Anonymoustype_Dynamic.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai17_Anonymoustype_Dynamic\bin\Debug\net9.0\Bai17_Anonymoustype_Dynamic.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai17_Anonymoustype_Dynamic\bin\Debug\net9.0\Bai17_Anonymoustype_Dynamic.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai17_Anonymoustype_Dynamic\bin\Debug\net9.0\Bai17_Anonymoustype_Dynamic.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai17_Anonymoustype_Dynamic\bin\Debug\net9.0\Bai17_Anonymoustype_Dynamic.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai17_Anonymoustype_Dynamic\obj\Debug\net9.0\Bai17_Anonymoustype_Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai17_Anonymoustype_Dynamic\obj\Debug\net9.0\Bai17_Anonymoustype_Dynamic.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai17_Anonymoustype_Dynamic\obj\Debug\net9.0\Bai17_Anonymoustype_Dynamic.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai17_Anonymoustype_Dynamic\obj\Debug\net9.0\Bai17_Anonymoustype_Dynamic.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai17_Anonymoustype_Dynamic\obj\Debug\net9.0\Bai17_Anonymoustype_Dynamic.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai17_Anonymoustype_Dynamic\obj\Debug\net9.0\Bai17_Anonymoustype_Dynamic.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai17_Anonymoustype_Dynamic\obj\Debug\net9.0\refint\Bai17_Anonymoustype_Dynamic.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai17_Anonymoustype_Dynamic\obj\Debug\net9.0\Bai17_Anonymoustype_Dynamic.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai17_Anonymoustype_Dynamic\obj\Debug\net9.0\Bai17_Anonymoustype_Dynamic.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai17_Anonymoustype_Dynamic\obj\Debug\net9.0\ref\Bai17_Anonymoustype_Dynamic.dll
