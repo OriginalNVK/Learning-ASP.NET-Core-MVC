@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai16_Generic\bin\Debug\net9.0\Bai16_Generic.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai16_Generic\bin\Debug\net9.0\Bai16_Generic.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai16_Generic\bin\Debug\net9.0\Bai16_Generic.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai16_Generic\bin\Debug\net9.0\Bai16_Generic.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai16_Generic\bin\Debug\net9.0\Bai16_Generic.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai16_Generic\obj\Debug\net9.0\Bai16_Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai16_Generic\obj\Debug\net9.0\Bai16_Generic.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai16_Generic\obj\Debug\net9.0\Bai16_Generic.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai16_Generic\obj\Debug\net9.0\Bai16_Generic.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai16_Generic\obj\Debug\net9.0\Bai16_Generic.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai16_Generic\obj\Debug\net9.0\Bai16_Generic.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai16_Generic\obj\Debug\net9.0\refint\Bai16_Generic.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai16_Generic\obj\Debug\net9.0\Bai16_Generic.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai16_Generic\obj\Debug\net9.0\Bai16_Generic.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai16_Generic\obj\Debug\net9.0\ref\Bai16_Generic.dll
