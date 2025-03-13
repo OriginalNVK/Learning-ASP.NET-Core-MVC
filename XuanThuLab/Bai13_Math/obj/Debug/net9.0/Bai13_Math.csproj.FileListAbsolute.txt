@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai13_Math\bin\Debug\net9.0\Bai13_Math.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai13_Math\bin\Debug\net9.0\Bai13_Math.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai13_Math\bin\Debug\net9.0\Bai13_Math.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai13_Math\bin\Debug\net9.0\Bai13_Math.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai13_Math\bin\Debug\net9.0\Bai13_Math.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai13_Math\obj\Debug\net9.0\Bai13_Math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai13_Math\obj\Debug\net9.0\Bai13_Math.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai13_Math\obj\Debug\net9.0\Bai13_Math.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai13_Math\obj\Debug\net9.0\Bai13_Math.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai13_Math\obj\Debug\net9.0\Bai13_Math.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai13_Math\obj\Debug\net9.0\Bai13_Math.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai13_Math\obj\Debug\net9.0\refint\Bai13_Math.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai13_Math\obj\Debug\net9.0\Bai13_Math.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai13_Math\obj\Debug\net9.0\Bai13_Math.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai13_Math\obj\Debug\net9.0\ref\Bai13_Math.dll
