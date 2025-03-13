@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai19_Virtual_Abstract_interface\bin\Debug\net9.0\Bai19_Virtual_Abstract_interface.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai19_Virtual_Abstract_interface\bin\Debug\net9.0\Bai19_Virtual_Abstract_interface.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai19_Virtual_Abstract_interface\bin\Debug\net9.0\Bai19_Virtual_Abstract_interface.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai19_Virtual_Abstract_interface\bin\Debug\net9.0\Bai19_Virtual_Abstract_interface.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai19_Virtual_Abstract_interface\bin\Debug\net9.0\Bai19_Virtual_Abstract_interface.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai19_Virtual_Abstract_interface\obj\Debug\net9.0\Bai19_Virtual_Abstract_interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai19_Virtual_Abstract_interface\obj\Debug\net9.0\Bai19_Virtual_Abstract_interface.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai19_Virtual_Abstract_interface\obj\Debug\net9.0\Bai19_Virtual_Abstract_interface.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai19_Virtual_Abstract_interface\obj\Debug\net9.0\Bai19_Virtual_Abstract_interface.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai19_Virtual_Abstract_interface\obj\Debug\net9.0\Bai19_Virtual_Abstract_interface.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai19_Virtual_Abstract_interface\obj\Debug\net9.0\Bai19_Virtual_Abstract_interface.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai19_Virtual_Abstract_interface\obj\Debug\net9.0\refint\Bai19_Virtual_Abstract_interface.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai19_Virtual_Abstract_interface\obj\Debug\net9.0\Bai19_Virtual_Abstract_interface.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai19_Virtual_Abstract_interface\obj\Debug\net9.0\Bai19_Virtual_Abstract_interface.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai19_Virtual_Abstract_interface\obj\Debug\net9.0\ref\Bai19_Virtual_Abstract_interface.dll
