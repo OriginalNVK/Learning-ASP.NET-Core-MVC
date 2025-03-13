@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai12_Struct_Enum\bin\Debug\net9.0\Bai12_Struct_Enum.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai12_Struct_Enum\bin\Debug\net9.0\Bai12_Struct_Enum.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai12_Struct_Enum\bin\Debug\net9.0\Bai12_Struct_Enum.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai12_Struct_Enum\bin\Debug\net9.0\Bai12_Struct_Enum.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai12_Struct_Enum\bin\Debug\net9.0\Bai12_Struct_Enum.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai12_Struct_Enum\obj\Debug\net9.0\Bai12_Struct_Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai12_Struct_Enum\obj\Debug\net9.0\Bai12_Struct_Enum.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai12_Struct_Enum\obj\Debug\net9.0\Bai12_Struct_Enum.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai12_Struct_Enum\obj\Debug\net9.0\Bai12_Struct_Enum.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai12_Struct_Enum\obj\Debug\net9.0\Bai12_Struct_Enum.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai12_Struct_Enum\obj\Debug\net9.0\Bai12_Struct_Enum.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai12_Struct_Enum\obj\Debug\net9.0\refint\Bai12_Struct_Enum.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai12_Struct_Enum\obj\Debug\net9.0\Bai12_Struct_Enum.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai12_Struct_Enum\obj\Debug\net9.0\Bai12_Struct_Enum.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai12_Struct_Enum\obj\Debug\net9.0\ref\Bai12_Struct_Enum.dll
