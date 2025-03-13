@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai15_Namespace\bin\Debug\net9.0\Bai15_Namespace.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai15_Namespace\bin\Debug\net9.0\Bai15_Namespace.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai15_Namespace\bin\Debug\net9.0\Bai15_Namespace.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai15_Namespace\bin\Debug\net9.0\Bai15_Namespace.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai15_Namespace\bin\Debug\net9.0\Bai15_Namespace.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai15_Namespace\obj\Debug\net9.0\Bai15_Namespace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai15_Namespace\obj\Debug\net9.0\Bai15_Namespace.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai15_Namespace\obj\Debug\net9.0\Bai15_Namespace.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai15_Namespace\obj\Debug\net9.0\Bai15_Namespace.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai15_Namespace\obj\Debug\net9.0\Bai15_Namespace.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai15_Namespace\obj\Debug\net9.0\Bai15_Namespace.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai15_Namespace\obj\Debug\net9.0\refint\Bai15_Namespace.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai15_Namespace\obj\Debug\net9.0\Bai15_Namespace.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai15_Namespace\obj\Debug\net9.0\Bai15_Namespace.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai15_Namespace\obj\Debug\net9.0\ref\Bai15_Namespace.dll
