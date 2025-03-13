@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Bai20_Delegate/1.0.0": {
+        "runtime": {
+          "Bai20_Delegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai20_Delegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

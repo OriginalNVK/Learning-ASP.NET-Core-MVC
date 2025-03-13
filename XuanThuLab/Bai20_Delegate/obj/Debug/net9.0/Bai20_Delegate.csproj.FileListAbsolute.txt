@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai20_Delegate\bin\Debug\net9.0\Bai20_Delegate.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai20_Delegate\bin\Debug\net9.0\Bai20_Delegate.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai20_Delegate\bin\Debug\net9.0\Bai20_Delegate.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai20_Delegate\bin\Debug\net9.0\Bai20_Delegate.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai20_Delegate\bin\Debug\net9.0\Bai20_Delegate.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai20_Delegate\obj\Debug\net9.0\Bai20_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai20_Delegate\obj\Debug\net9.0\Bai20_Delegate.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai20_Delegate\obj\Debug\net9.0\Bai20_Delegate.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai20_Delegate\obj\Debug\net9.0\Bai20_Delegate.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai20_Delegate\obj\Debug\net9.0\Bai20_Delegate.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai20_Delegate\obj\Debug\net9.0\Bai20_Delegate.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai20_Delegate\obj\Debug\net9.0\refint\Bai20_Delegate.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai20_Delegate\obj\Debug\net9.0\Bai20_Delegate.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai20_Delegate\obj\Debug\net9.0\Bai20_Delegate.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai20_Delegate\obj\Debug\net9.0\ref\Bai20_Delegate.dll
