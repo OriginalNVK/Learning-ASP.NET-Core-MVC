@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai22_Event_EventHandler\bin\Debug\net9.0\Bai22_Event_EventHandler.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai22_Event_EventHandler\bin\Debug\net9.0\Bai22_Event_EventHandler.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai22_Event_EventHandler\bin\Debug\net9.0\Bai22_Event_EventHandler.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai22_Event_EventHandler\bin\Debug\net9.0\Bai22_Event_EventHandler.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai22_Event_EventHandler\bin\Debug\net9.0\Bai22_Event_EventHandler.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai22_Event_EventHandler\obj\Debug\net9.0\Bai22_Event_EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai22_Event_EventHandler\obj\Debug\net9.0\Bai22_Event_EventHandler.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai22_Event_EventHandler\obj\Debug\net9.0\Bai22_Event_EventHandler.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai22_Event_EventHandler\obj\Debug\net9.0\Bai22_Event_EventHandler.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai22_Event_EventHandler\obj\Debug\net9.0\Bai22_Event_EventHandler.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai22_Event_EventHandler\obj\Debug\net9.0\Bai22_Event_EventHandler.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai22_Event_EventHandler\obj\Debug\net9.0\refint\Bai22_Event_EventHandler.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai22_Event_EventHandler\obj\Debug\net9.0\Bai22_Event_EventHandler.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai22_Event_EventHandler\obj\Debug\net9.0\Bai22_Event_EventHandler.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai22_Event_EventHandler\obj\Debug\net9.0\ref\Bai22_Event_EventHandler.dll

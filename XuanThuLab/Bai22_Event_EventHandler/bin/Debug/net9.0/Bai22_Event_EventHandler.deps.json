@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Bai22_Event_EventHandler/1.0.0": {
+        "runtime": {
+          "Bai22_Event_EventHandler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai22_Event_EventHandler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
