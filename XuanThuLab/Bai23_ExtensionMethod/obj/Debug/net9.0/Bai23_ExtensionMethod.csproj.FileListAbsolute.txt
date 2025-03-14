@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai23_ExtensionMethod\bin\Debug\net9.0\Bai23_ExtensionMethod.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai23_ExtensionMethod\bin\Debug\net9.0\Bai23_ExtensionMethod.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai23_ExtensionMethod\bin\Debug\net9.0\Bai23_ExtensionMethod.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai23_ExtensionMethod\bin\Debug\net9.0\Bai23_ExtensionMethod.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai23_ExtensionMethod\bin\Debug\net9.0\Bai23_ExtensionMethod.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai23_ExtensionMethod\obj\Debug\net9.0\Bai23_ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai23_ExtensionMethod\obj\Debug\net9.0\Bai23_ExtensionMethod.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai23_ExtensionMethod\obj\Debug\net9.0\Bai23_ExtensionMethod.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai23_ExtensionMethod\obj\Debug\net9.0\Bai23_ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai23_ExtensionMethod\obj\Debug\net9.0\Bai23_ExtensionMethod.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai23_ExtensionMethod\obj\Debug\net9.0\Bai23_ExtensionMethod.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai23_ExtensionMethod\obj\Debug\net9.0\refint\Bai23_ExtensionMethod.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai23_ExtensionMethod\obj\Debug\net9.0\Bai23_ExtensionMethod.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai23_ExtensionMethod\obj\Debug\net9.0\Bai23_ExtensionMethod.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai23_ExtensionMethod\obj\Debug\net9.0\ref\Bai23_ExtensionMethod.dll

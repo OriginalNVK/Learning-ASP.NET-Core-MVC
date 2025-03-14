@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai23_ExtensionMethod", "Bai23_ExtensionMethod.csproj", "{4F1BC504-28AA-7100-2C75-44A785B97D86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F1BC504-28AA-7100-2C75-44A785B97D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1BC504-28AA-7100-2C75-44A785B97D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1BC504-28AA-7100-2C75-44A785B97D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1BC504-28AA-7100-2C75-44A785B97D86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {154262C2-14BF-4117-9582-73152BE8872B}
+	EndGlobalSection
+EndGlobal
