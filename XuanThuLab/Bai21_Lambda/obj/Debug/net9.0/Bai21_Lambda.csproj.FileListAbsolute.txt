@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai21_Lambda\bin\Debug\net9.0\Bai21_Lambda.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai21_Lambda\bin\Debug\net9.0\Bai21_Lambda.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai21_Lambda\bin\Debug\net9.0\Bai21_Lambda.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai21_Lambda\bin\Debug\net9.0\Bai21_Lambda.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai21_Lambda\bin\Debug\net9.0\Bai21_Lambda.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai21_Lambda\obj\Debug\net9.0\Bai21_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai21_Lambda\obj\Debug\net9.0\Bai21_Lambda.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai21_Lambda\obj\Debug\net9.0\Bai21_Lambda.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai21_Lambda\obj\Debug\net9.0\Bai21_Lambda.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai21_Lambda\obj\Debug\net9.0\Bai21_Lambda.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai21_Lambda\obj\Debug\net9.0\Bai21_Lambda.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai21_Lambda\obj\Debug\net9.0\refint\Bai21_Lambda.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai21_Lambda\obj\Debug\net9.0\Bai21_Lambda.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai21_Lambda\obj\Debug\net9.0\Bai21_Lambda.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai21_Lambda\obj\Debug\net9.0\ref\Bai21_Lambda.dll

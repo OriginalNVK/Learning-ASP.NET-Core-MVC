@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai21_Lambda", "Bai21_Lambda.csproj", "{CD73653F-A277-0E7C-3DD8-0F055660C036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD73653F-A277-0E7C-3DD8-0F055660C036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD73653F-A277-0E7C-3DD8-0F055660C036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD73653F-A277-0E7C-3DD8-0F055660C036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD73653F-A277-0E7C-3DD8-0F055660C036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E5EEE60-731A-4A92-8566-6FB20CDC32F1}
+	EndGlobalSection
+EndGlobal
