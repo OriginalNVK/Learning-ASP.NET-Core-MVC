@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai25_Exception\bin\Debug\net9.0\Bai25_Exception.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai25_Exception\bin\Debug\net9.0\Bai25_Exception.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai25_Exception\bin\Debug\net9.0\Bai25_Exception.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai25_Exception\bin\Debug\net9.0\Bai25_Exception.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai25_Exception\bin\Debug\net9.0\Bai25_Exception.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai25_Exception\obj\Debug\net9.0\Bai25_Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai25_Exception\obj\Debug\net9.0\Bai25_Exception.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai25_Exception\obj\Debug\net9.0\Bai25_Exception.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai25_Exception\obj\Debug\net9.0\Bai25_Exception.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai25_Exception\obj\Debug\net9.0\Bai25_Exception.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai25_Exception\obj\Debug\net9.0\Bai25_Exception.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai25_Exception\obj\Debug\net9.0\refint\Bai25_Exception.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai25_Exception\obj\Debug\net9.0\Bai25_Exception.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai25_Exception\obj\Debug\net9.0\Bai25_Exception.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai25_Exception\obj\Debug\net9.0\ref\Bai25_Exception.dll

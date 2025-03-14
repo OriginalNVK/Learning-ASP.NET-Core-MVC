@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Bai25_Exception/1.0.0": {
+        "runtime": {
+          "Bai25_Exception.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai25_Exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
