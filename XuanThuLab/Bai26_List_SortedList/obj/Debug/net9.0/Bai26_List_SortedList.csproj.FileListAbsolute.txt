@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai26_List_SortedList\bin\Debug\net9.0\Bai26_List_SortedList.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai26_List_SortedList\bin\Debug\net9.0\Bai26_List_SortedList.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai26_List_SortedList\bin\Debug\net9.0\Bai26_List_SortedList.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai26_List_SortedList\bin\Debug\net9.0\Bai26_List_SortedList.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai26_List_SortedList\bin\Debug\net9.0\Bai26_List_SortedList.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai26_List_SortedList\obj\Debug\net9.0\Bai26_List_SortedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai26_List_SortedList\obj\Debug\net9.0\Bai26_List_SortedList.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai26_List_SortedList\obj\Debug\net9.0\Bai26_List_SortedList.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai26_List_SortedList\obj\Debug\net9.0\Bai26_List_SortedList.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai26_List_SortedList\obj\Debug\net9.0\Bai26_List_SortedList.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai26_List_SortedList\obj\Debug\net9.0\Bai26_List_SortedList.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai26_List_SortedList\obj\Debug\net9.0\refint\Bai26_List_SortedList.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai26_List_SortedList\obj\Debug\net9.0\Bai26_List_SortedList.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai26_List_SortedList\obj\Debug\net9.0\Bai26_List_SortedList.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai26_List_SortedList\obj\Debug\net9.0\ref\Bai26_List_SortedList.dll
