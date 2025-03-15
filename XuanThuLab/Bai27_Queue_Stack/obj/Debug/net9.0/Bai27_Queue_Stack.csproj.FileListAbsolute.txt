@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai27_Queue_Stack\bin\Debug\net9.0\Bai27_Queue_Stack.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai27_Queue_Stack\bin\Debug\net9.0\Bai27_Queue_Stack.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai27_Queue_Stack\bin\Debug\net9.0\Bai27_Queue_Stack.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai27_Queue_Stack\bin\Debug\net9.0\Bai27_Queue_Stack.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai27_Queue_Stack\bin\Debug\net9.0\Bai27_Queue_Stack.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai27_Queue_Stack\obj\Debug\net9.0\Bai27_Queue_Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai27_Queue_Stack\obj\Debug\net9.0\Bai27_Queue_Stack.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai27_Queue_Stack\obj\Debug\net9.0\Bai27_Queue_Stack.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai27_Queue_Stack\obj\Debug\net9.0\Bai27_Queue_Stack.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai27_Queue_Stack\obj\Debug\net9.0\Bai27_Queue_Stack.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai27_Queue_Stack\obj\Debug\net9.0\Bai27_Queue_Stack.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai27_Queue_Stack\obj\Debug\net9.0\refint\Bai27_Queue_Stack.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai27_Queue_Stack\obj\Debug\net9.0\Bai27_Queue_Stack.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai27_Queue_Stack\obj\Debug\net9.0\Bai27_Queue_Stack.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai27_Queue_Stack\obj\Debug\net9.0\ref\Bai27_Queue_Stack.dll
