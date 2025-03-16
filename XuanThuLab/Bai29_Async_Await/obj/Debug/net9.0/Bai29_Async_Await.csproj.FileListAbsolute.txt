@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai29_Async_Await\bin\Debug\net9.0\Bai29_Async_Await.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai29_Async_Await\bin\Debug\net9.0\Bai29_Async_Await.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai29_Async_Await\bin\Debug\net9.0\Bai29_Async_Await.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai29_Async_Await\bin\Debug\net9.0\Bai29_Async_Await.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai29_Async_Await\bin\Debug\net9.0\Bai29_Async_Await.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai29_Async_Await\obj\Debug\net9.0\Bai29_Async_Await.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai29_Async_Await\obj\Debug\net9.0\Bai29_Async_Await.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai29_Async_Await\obj\Debug\net9.0\Bai29_Async_Await.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai29_Async_Await\obj\Debug\net9.0\Bai29_Async_Await.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai29_Async_Await\obj\Debug\net9.0\Bai29_Async_Await.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai29_Async_Await\obj\Debug\net9.0\Bai29_Async_Await.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai29_Async_Await\obj\Debug\net9.0\refint\Bai29_Async_Await.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai29_Async_Await\obj\Debug\net9.0\Bai29_Async_Await.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai29_Async_Await\obj\Debug\net9.0\Bai29_Async_Await.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai29_Async_Await\obj\Debug\net9.0\ref\Bai29_Async_Await.dll
