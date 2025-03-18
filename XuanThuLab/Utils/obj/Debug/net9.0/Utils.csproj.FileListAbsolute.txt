@@ -1,0 +1,12 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Utils\bin\Debug\net9.0\Utils.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Utils\bin\Debug\net9.0\Utils.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Utils\bin\Debug\net9.0\Utils.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Utils\obj\Debug\net9.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Utils\obj\Debug\net9.0\Utils.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Utils\obj\Debug\net9.0\Utils.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Utils\obj\Debug\net9.0\Utils.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Utils\obj\Debug\net9.0\Utils.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Utils\obj\Debug\net9.0\Utils.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Utils\obj\Debug\net9.0\refint\Utils.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Utils\obj\Debug\net9.0\Utils.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Utils\obj\Debug\net9.0\ref\Utils.dll
