@@ -1,0 +1,15 @@
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai32_Attribute_type\bin\Debug\net9.0\Bai32_Attribute_type.exe
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai32_Attribute_type\bin\Debug\net9.0\Bai32_Attribute_type.deps.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai32_Attribute_type\bin\Debug\net9.0\Bai32_Attribute_type.runtimeconfig.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai32_Attribute_type\bin\Debug\net9.0\Bai32_Attribute_type.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai32_Attribute_type\bin\Debug\net9.0\Bai32_Attribute_type.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai32_Attribute_type\obj\Debug\net9.0\Bai32_Attribute_type.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai32_Attribute_type\obj\Debug\net9.0\Bai32_Attribute_type.AssemblyInfoInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai32_Attribute_type\obj\Debug\net9.0\Bai32_Attribute_type.AssemblyInfo.cs
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai32_Attribute_type\obj\Debug\net9.0\Bai32_Attribute_type.csproj.CoreCompileInputs.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai32_Attribute_type\obj\Debug\net9.0\Bai32_Attribute_type.sourcelink.json
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai32_Attribute_type\obj\Debug\net9.0\Bai32_Attribute_type.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai32_Attribute_type\obj\Debug\net9.0\refint\Bai32_Attribute_type.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai32_Attribute_type\obj\Debug\net9.0\Bai32_Attribute_type.pdb
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai32_Attribute_type\obj\Debug\net9.0\Bai32_Attribute_type.genruntimeconfig.cache
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\XuanThuLab\Bai32_Attribute_type\obj\Debug\net9.0\ref\Bai32_Attribute_type.dll
