@@ -1,0 +1,22 @@
+@model Product
+
+<h1>
+    Thong tin san pham
+</h1>
+@if(Model != null)
+{
+    <div>
+        <h2>
+            @Model.Name
+        </h2>
+        <p>
+            @Model.Price
+        </p>
+    </div>
+}
+else
+{
+    <p>
+        San pham khong ton tai
+    </p>
+}
