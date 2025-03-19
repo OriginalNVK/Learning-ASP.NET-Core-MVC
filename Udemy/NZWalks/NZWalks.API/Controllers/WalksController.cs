@@ -36,9 +36,10 @@ namespace NZWalks.API.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAll()
+        public async Task<IActionResult> GetAll([FromQuery] string? FilterOn, [FromQuery] string? FilterQuery
+            ,[FromQuery] string? SortBy, [FromQuery] bool? isAcending, [FromQuery] int? pageNumber = 1, [FromQuery] int? pageSize = 1000)
         {
-            var WalksDomainModel = await _IWalkRepository.GetAllAsync();
+            var WalksDomainModel = await _IWalkRepository.GetAllAsync(FilterOn, FilterQuery, SortBy, isAcending, pageNumber, pageSize);
 
             // map Domain to Dto
 
