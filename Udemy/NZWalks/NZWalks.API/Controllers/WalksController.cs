@@ -10,7 +10,7 @@ namespace NZWalks.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class WalksController : ControllerBase
+    public class WalksController : ControllerBase 
     {
         private readonly IMapper mapper;
         private readonly IWalkRepository _IWalkRepository;
@@ -40,6 +40,9 @@ namespace NZWalks.API.Controllers
             ,[FromQuery] string? SortBy, [FromQuery] bool? isAcending, [FromQuery] int? pageNumber = 1, [FromQuery] int? pageSize = 1000)
         {
             var WalksDomainModel = await _IWalkRepository.GetAllAsync(FilterOn, FilterQuery, SortBy, isAcending, pageNumber, pageSize);
+
+            // Create an exception
+
 
             // map Domain to Dto
 

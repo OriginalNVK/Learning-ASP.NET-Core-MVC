@@ -151,3 +151,12 @@ D:\Work\ProfessionalProject\Learning-ASP.NET-API\Udemy\NZWalks\NZWalks.API\bin\D
 D:\Work\ProfessionalProject\Learning-ASP.NET-API\Udemy\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
 D:\Work\ProfessionalProject\Learning-ASP.NET-API\Udemy\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
 D:\Work\ProfessionalProject\Learning-ASP.NET-API\Udemy\NZWalks\NZWalks.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\Udemy\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\Udemy\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\Udemy\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\Udemy\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\Udemy\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\Udemy\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\Udemy\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\Udemy\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Work\ProfessionalProject\Learning-ASP.NET-API\Udemy\NZWalks\NZWalks.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
